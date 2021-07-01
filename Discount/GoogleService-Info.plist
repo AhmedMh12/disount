@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>287623612476-f6es1e0gluh7opqai725srsm78eg02s9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.287623612476-f6es1e0gluh7opqai725srsm78eg02s9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATWnE7B9Ml4eUekNdFrzmk4on5Sq0df_s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>287623612476</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ahmed-mh.Discount</string>
+	<key>PROJECT_ID</key>
+	<string>mydiscount-4bf1e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mydiscount-4bf1e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:287623612476:ios:2f717547d7ac6ead0f5b39</string>
+	<key>DATABASE_URL</key>
+	<string>https://mydiscount-4bf1e.firebaseio.com</string>
+</dict>
+</plist>
